@@ -1,0 +1,15 @@
+.header-item {
+    &:last-child {
+      a {
+        margin-right: 0;
+      }
+    }
+    a {
+      font-family: 'Roboto', sans-serif;
+      margin-right: 30px;
+      color: black;
+      font-weight: 500;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+    }
+  }
